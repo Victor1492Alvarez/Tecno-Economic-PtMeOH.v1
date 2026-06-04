@@ -22,7 +22,7 @@ runner = CaseRunner(PROJECT_ROOT)
 registry = ModelRegistry(PROJECT_ROOT)
 
 st.set_page_config(page_title="PtMeOH Sizing Tool V1", layout="wide")
-st.title("PtMeOH Plant Sizing Tool — Version 1")
+st.title("PtMeOH Plant Sizing Tool — Back_UP Version")
 st.caption(
     "Annual deterministic simulator, multi-surrogate PtMeOH response, "
     "techno-economics, and grid-search design exploration"
